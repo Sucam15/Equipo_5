@@ -1,6 +1,9 @@
-UNIVERSIDAD PERUANA CAYETANO HEREDIA 
 
-Equipo 5 - Procesos de innovación
+Equipo 5
+
+   <img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/dfac962d-5f06-431d-b817-9604650ad033" />
+               UNIVERSIDAD PERUANA CAYETANO HEREDIA
+ - Procesos de innovación
 
 Descripción del Equipo
 
@@ -25,10 +28,10 @@ ODS 13: Acción por el clima
 INTEGRANTES DEL EQUIPO:
 
 
-| NOMBRES                          | ROL                 | INTERESES   |
-| ---------------------------------| ------------------- |-------------|
-| Avilez Salinas, Harold Dair      | Lider               |análisis de bases de datos, diseño web y progamación.              |           
-| Vasquez Altamirano, Susana Camila| Diseñadora visual   |Sostenibilidad, gestión ambiental, diseñar.             |
-| Sarmiento Montalvo Marlon Steeven| Diseñador UX        |Arquitectura de información, usabilidad técnica y flujos.
-| Chavez Aliaga Aldair Alexander   | Investigador        | Análisis y síntesis de datos, aplicación de sostenibilidad y desarrollo de soluciones tecnológicas.
+| NOMBRES                             | ROL                 | INTERESES                                                                                           |
+| -----------------------------------| ------------------- |-----------------------------------------------------------------------------------------------------|
+| Avilez Salinas, Harold Dair        | Lider               |análisis de bases de datos, diseño web y progamación.                                                |           
+| Vasquez Altamirano, Susana Camila  | Diseñadora visual   |Sostenibilidad, gestión ambiental, diseñar.                                                          |
+| Sarmiento Montalvo Marlon Steeven  | Diseñador UX        |Arquitectura de información, usabilidad técnica y flujos.                                            |
+| Chavez Aliaga Aldair Alexander    | Investigador        | Análisis y síntesis de datos, aplicación de sostenibilidad y desarrollo de soluciones tecnológicas. |
 
