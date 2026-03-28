@@ -1,31 +1,31 @@
 
 
    <img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/dfac962d-5f06-431d-b817-9604650ad033" />
-                                         UNIVERSIDAD PERUANA CAYETANO HEREDIA
+   
+   ## UNIVERSIDAD PERUANA CAYETANO HEREDIA
+   
                
-EQUIPO 5 
+**PROCESOS DE INNOVACION EN INGENIERIA - EQUIPO 5**
 
-Descripción del Equipo
+## Descripción del Equipo
 
-Somos el Equipo 5 del curso de Procesos de Innovación en Ingeniería 2026-1 conformados por estudiantes de la carrera de Ingeniería Ambiental / Informática.
+Somos el Equipo 5 del curso Procesos de Innovación en Ingeniería 2026-1, conformado por estudiantes de Ingeniería Ambiental e Informática.
 
-Nuestro objetivo es aplicar la metodología de un proceso de innovación para generar soluciones innovadoras y sostenibles.
-_______________________________________________________________________________
-Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
+Nuestro objetivo es aplicar metodologías de innovación para desarrollar soluciones sostenibles e innovadoras.
+## Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
-ODS 6: Agua limpia y saneamiento 
+**Objetivos de Desarrollo Sostenible**
 
-ODS 7: Energia asequible y no contaminante 
+| ODS            | Enfoque                                 |
+| -------------- | --------------------------------------- |
+|  **ODS 6**   | Agua limpia y saneamiento               |
+|  **ODS 7**    | Energía asequible y no contaminante     |
+|  **ODS 9**  | Industria, innovación e infraestructura |
+|  **ODS 11** | Ciudades y comunidades sostenibles      |
+|  **ODS 12**  | Producción y consumo responsable        |
+|  **ODS 13**  | Acción por el clima                     |
 
-ODS 9: Industria, innovación e infraestructura 
-
-ODS 11: Ciudades y comunidades sostenibles 
-
-ODS 12: Producción y consumo responsable
-
-ODS 13: Acción por el clima
-
-INTEGRANTES DEL EQUIPO:
+## INTEGRANTES DEL EQUIPO:
 
 
 
