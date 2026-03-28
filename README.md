@@ -21,3 +21,14 @@ ODS 11: Ciudades y comunidades sostenibles
 ODS 12: Producción y consumo responsable 
 
 ODS 13: Acción por el clima
+
+INTEGRANTES DEL EQUIPO:
+
+
+| NOMBRES                          | ROL                 | INTERESES   |
+| ---------------------------------| ------------------- |-------------|
+| Avilez Salinas, Harold Dair      | Lider               |análisis de bases de datos, diseño web y progamación.              |           
+| Vasquez Altamirano, Susana Camila| Diseñadora visual   |Sostenibilidad, gestión ambiental, diseñar.             |
+| Sarmiento Montalvo Marlon Steeven| Diseñador UX        |Arquitectura de información, usabilidad técnica y flujos.
+| Chavez Aliaga Aldair Alexander   | Investigador        | Análisis y síntesis de datos, aplicación de sostenibilidad y desarrollo de soluciones tecnológicas.
+
